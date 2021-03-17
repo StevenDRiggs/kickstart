@@ -1,0 +1,8 @@
+puts '2'
+puts '2 4 5'
+puts '10 10 100 30'
+puts '80 50 10 50'
+puts '3 2 3'
+puts '80 80'
+puts '15 50'
+puts '20 10'
